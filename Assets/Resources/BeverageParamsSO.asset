@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22c9a9a4c9cfc0445985269f57eff770, type: 3}
+  m_Name: BeverageParamsSO
+  m_EditorClassIdentifier: 
+  _espressoCost: 1.99
+  _darkRoastCost: 0.99
+  _houseBlendCost: 0.89
+  _whipCost: 0.1
+  _mochaCost: 0.2
+  _soyCost: 0.15
+  _additionalCost: 0
+  _reducedCost: 0
